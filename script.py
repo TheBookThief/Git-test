@@ -10,3 +10,4 @@ a = 1
 #defining a sample function
 b = 2
 print(a+b)
+print(a-b)
