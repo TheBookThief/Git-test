@@ -7,7 +7,7 @@ print(r.ok)
 
 a = 3
 def function():
-	return 1
+	return 11
 #defining a sample function
 b = 2
 print(a+b)
